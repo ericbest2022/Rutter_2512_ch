@@ -1,14 +1,13 @@
 # immortalWrt 25.12.x
 
-	R3G     ⓪
 	MT7981  ②
 	TR3000  ⑤
 	360t7   ⑧
-	8/M
+	9/M
 
 # Version
 
-	REPO_URL: https://github.com/immortalwrt/immortalwrt.git
+	REPO_URL: https://github.com/chasey-dev/immortalwrt-mt798x-rebase.git
 	REPO_BRANCH: v25.12.0
 	REPO_BRANCH: openwrt-25.12
   
@@ -73,6 +72,7 @@ Build OpenWrt using GitHub Actions
 - [OpenWrt](https://github.com/openwrt/openwrt)
 - [Immortalwrt](https://github.com/immortalwrt/immortalwrt)
 - [padavanonly]( https://github.com/padavanonly/immortalwrt-mt798x-6.6)
+- [chasey](https://github.com/chasey-dev/immortalwrt-mt798x-rebase.git)
 
 ## License
 
